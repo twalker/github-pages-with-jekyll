@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Learning Lagr are rad!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Nothing to see here. Just going through GH's Pages tutorial. I'll take what I'd learned and apply it to a repo to build out a portfolio.
